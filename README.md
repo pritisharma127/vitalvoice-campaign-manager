@@ -11,6 +11,9 @@ This is a small Node.js/Express service that automates donor communication for b
 - Process incoming webhook payloads to record call/transaction data
 - Independent endpoint for manual WhatsApp testing
 
+## Architecture
+![Alt text](./assets/VitalVoice-Architecture_2.png)
+
 ## HTTP Endpoints
 
 - **POST** `/process-info`
