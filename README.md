@@ -14,6 +14,9 @@ This is a small Node.js/Express service that automates donor communication for b
 ## Architecture
 ![Alt text](./assets/VitalVoice-Architecture_2.png)
 
+## Elevenlabs Voice Agent Architecture
+![Alt text](./assets/VitalVoice-VoiceAI.png)
+
 ## HTTP Endpoints
 
 - **POST** `/process-info`
